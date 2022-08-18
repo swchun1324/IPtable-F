@@ -2,4 +2,4 @@
 
 1. Virtual Machine setting
 
-* 1 VM - 1
+* 1 VM router - 192.168.4.
