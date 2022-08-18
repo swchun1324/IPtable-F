@@ -7,4 +7,6 @@
                              192.168.10.1(Internal IP Address)
 * 3 VM Internal Machine : 192.168.10.2
 
-Firewall incoming allow port = 
+Firewall incoming allow port = tcp_ports=21,443,53,80,22,2000 udp_ports=53,2000
+
+Filter the inbound packet
