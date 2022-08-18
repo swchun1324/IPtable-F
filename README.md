@@ -10,3 +10,5 @@
 Firewall incoming allow port = tcp_ports=21,443,53,80,22,2000 udp_ports=53,2000
 
 Filter the inbound packet
+
+
